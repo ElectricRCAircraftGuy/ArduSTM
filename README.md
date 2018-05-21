@@ -20,7 +20,7 @@ Once we have done these things, we can know we are successful.
 
 ## Contributing
 
-As I start developing a coding style and preferences, follow my lead, improve or make suggestions where you see fit, and let's make the transition into the world of STM32 and from the position of an Arduino hobbyist to a professional embedded software developer a little bit easier.
+Start by reading the above. Then, as I start developing a coding style and preferences, follow my lead, improve or make suggestions where you see fit, and let's make the transition into the world of STM32 and from the position of an Arduino hobbyist to a professional embedded software developer a little bit easier.
 
 Sincerely,
 
