@@ -2,7 +2,7 @@
 Going from Arduino to professional with STM32 microcontrollers.
 
 ## Description
-Going from nothing to programming microcontrollers is extremely difficult. Arduino makes that possible. Going from Arduino hobbyist/light professional to full professional is extremely difficult, my goal is for ArdSTM to make that more possible. 
+Going from nothing to programming microcontrollers is extremely difficult. Arduino makes that possible. Going from Arduino hobbyist/light professional to full professional is extremely difficult, my goal is for ArduSTM to make that more possible. 
 
 I'd like to take the spirit of Arduino, which is what got me from not knowing what a microcontroller was in 2012, to now having invented a couple products (including one that helped with filming Hollywood movies) and to finally landing my dream job as an embedded systems software engineer on self-driving trucks at Uber Advanced Technologies Group. Now, I'd like to see if I can give back a little to help others like me--with my drive, dedication, and passion, to do what I've done too. 
 
