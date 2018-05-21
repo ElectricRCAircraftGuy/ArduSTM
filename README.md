@@ -24,7 +24,7 @@ As I start developing a coding style and preferences, follow my lead, improve or
 
 Sincerely,
 
-Gabriel Staples
+Gabriel Staples  
 www.ElectricRCAircraftGuy.com
 
 *Note: my employer in no way is involved, nor do they endorse this code or project. This is a personal project only.*
