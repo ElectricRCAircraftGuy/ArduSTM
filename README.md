@@ -10,19 +10,22 @@ I envision ArduSTM being an STM32-based toolkit which provides easy-to-use and e
 
 ## Approach
 We will use the STM32-provided HAL libraries. We will NOT try to become our own thing. We will rely on STM32CubeMX and STM32 examples where it makes sense. We will *teach* how to do what we are doing and what we have done, by providing explanations, example code, tools, and demonstration videos. We will NOT turn away those who want to learn and isolate ourselves to the "experts only." We will embrace others. We will be respectful. We will be mentors ourselves. We will use direct-register-manipulation where it makes sense. We will NOT try to become our own stand-alone thing like Arduino is to AVR and Atmel ARM32. Rather, we will seek to become the stepping stones necessary to give an interested hobbyist the firm footing they need to cross the wide, rapids-filled river until they can begin to do things on their own by:
- # Using our easy-to-use tools and libraries
- # Using the tools and example code provided by STM (ex: HAL and LL libraries, STM32CubeMX, STM32CubeF2/3/4/etc example code, etc)
- # Using direct register manipulation by referencing the Reference Manuals, Application Notes, and other documents provided by STM or ARM
- # Using other resources--either free or commercial, as they see fit. 
+ 1. Using our easy-to-use tools and libraries
+ 2. Learning how to use FREE (no-cost, but also open source if possible) IDEs like Atollic TruSTUDIO and System Workbench for STM32 (SW4STM32), as well as how to configure and use a toolchain from the command-line, how to upload, and how to use free and open source debuggers, as well as paid ones.
+ 2. Using the tools and example code provided by STM (ex: HAL and LL libraries, STM32CubeMX, STM32CubeF2/3/4/etc example code, etc)
+ 3. Using direct register manipulation by referencing the Reference Manuals, Application Notes, and other documents provided by STM or ARM
+ 4. Using other resources--either free or commercial, as they see fit. 
 
 Once we have done these things, we can know we are successful. 
 
-Let's make the transition into the world of STM32 and from Arduino to professional a little bit easier.
+## Contributing
+
+As I start developing a coding style and preferences, follow my lead, improve or make suggestions where you see fit, and let's make the transition into the world of STM32 and from the position of an Arduino hobbyist to a professional embedded software developer a little bit easier.
 
 Sincerely,
 
 Gabriel Staples
 www.ElectricRCAircraftGuy.com
 
-*Note: my employer in no way endorses this code or project. This is a personal project only.*
+*Note: my employer in no way is involved, nor do they endorse this code or project. This is a personal project only.*
  
